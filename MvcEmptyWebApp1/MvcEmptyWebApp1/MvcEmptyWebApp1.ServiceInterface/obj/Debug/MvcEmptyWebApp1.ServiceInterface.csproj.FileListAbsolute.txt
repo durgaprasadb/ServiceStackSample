@@ -1,0 +1,16 @@
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.xml
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Client.xml
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Common.xml
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\bin\Debug\ServiceStack.Text.xml
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.ServiceInterface\obj\Debug\MvcEmptyWebApp1.ServiceInterface.pdb

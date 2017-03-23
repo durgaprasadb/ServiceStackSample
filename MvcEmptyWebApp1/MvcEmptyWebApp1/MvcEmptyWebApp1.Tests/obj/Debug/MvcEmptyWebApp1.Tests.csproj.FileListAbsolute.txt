@@ -1,0 +1,40 @@
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.Tests.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.Tests.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\nunit.framework.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Client.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Common.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Text.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\nunit.framework.xml
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.xml
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Client.xml
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Common.xml
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Text.xml
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\obj\Debug\MvcEmptyWebApp1.Tests.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\obj\Debug\MvcEmptyWebApp1.Tests.dll
+C:\Users\hp\documents\visual studio 2015\Projects\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\obj\Debug\MvcEmptyWebApp1.Tests.pdb
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.Tests.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.Tests.pdb
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.ServiceInterface.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.ServiceModel.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Client.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Common.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Interfaces.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Text.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.ServiceInterface.pdb
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\MvcEmptyWebApp1.ServiceModel.pdb
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.xml
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Client.xml
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Common.xml
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\bin\Debug\ServiceStack.Text.xml
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\obj\Debug\MvcEmptyWebApp1.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\obj\Debug\MvcEmptyWebApp1.Tests.dll
+C:\Projects\ServiceStackSample\MvcEmptyWebApp1\MvcEmptyWebApp1\MvcEmptyWebApp1.Tests\obj\Debug\MvcEmptyWebApp1.Tests.pdb
